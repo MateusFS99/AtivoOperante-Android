@@ -1,9 +1,9 @@
 [![Updated Badge](https://badges.pufler.dev/updated/MateusFS99/AtivoOperante-Android)](https://github.com/MateusFS99/AtivoOperante-Android/commits/main)
 
 <h1 align="center">
-    <img src="https://cdn-icons.flaticon.com/png/512/2686/premium/2686454.png?token=exp=1655153221~hmac=83b57c3638be78adac1bd6829ba26e88" width="32px" height="32px"> 
+    <img src="https://cdn-icons.flaticon.com/png/512/2686/premium/2686454.png?token=exp=1655154333~hmac=c5978c41c7a39f0ee4f328bd8c01d847" width="32px" height="32px"> 
     Ativo & Operante - Android
-    <img src="https://cdn-icons.flaticon.com/png/512/2686/premium/2686454.png?token=exp=1655153221~hmac=83b57c3638be78adac1bd6829ba26e88" width="32px" height="32px">
+    <img src="https://cdn-icons.flaticon.com/png/512/2686/premium/2686454.png?token=exp=1655154333~hmac=c5978c41c7a39f0ee4f328bd8c01d847" width="32px" height="32px">
 </h1>
 
 ## About 🎯
