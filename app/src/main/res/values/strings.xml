@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ativo&amp;Operante</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="cpf">CPF</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="senha">Senha</string>
+    <string name="confirmar_senha">Confirmar Senha</string>
+    <string name="registre_se">Registre-Se</string>
+    <string name="login">Login</string>
+    <string name="t_tulo">Título</string>
+    <string name="descri_o_do_problema">Descrição do Problema</string>
+    <string name="rg_o">Órgão</string>
+    <string name="tipo_de_problema">Tipo de Problema</string>
+    <string name="urg_ncia">Urgência</string>
+</resources>
